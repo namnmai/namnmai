@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi there 👋 I'm currently a Computer Science student at Oregon State University
+
+🚀 Technical Skills:
+- 💻 Languages: Python, JavaScript, HTML/CSS
+- ⚙️ Frameworks/Libraries: React.js, Unittest, Flask
+- 📊 Databases/Tools: GitHub, Git, MongoDB, Figma, Google Books API, Open AI
 
 <!--
 **namnmai/namnmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
