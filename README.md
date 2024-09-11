@@ -2,6 +2,6 @@ Hi there 👋 I'm currently a Computer Science student at Oregon State Universit
 
 🚀 Technical Skills:
 - 💻 Languages: Python
-- ⚙️ Frameworks/Libraries: Currently trying to learn Flask
+- ⚙️ Frameworks/Libraries: Currently learning Django
 - 📊 Databases/Tools: GitHub, Git, PyCharm
 
